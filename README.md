@@ -27,15 +27,11 @@ DanceScore es una aplicación hecha con React para registrar competencias de bai
 2. Abrir la carpeta del proyecto en Visual Studio Code.
 3. Abrir la terminal y ejecutar:
 
-   ```bash
    npm install
-   ```
 
 4. Iniciar la aplicación con:
 
-   ```bash
    npm run dev
-   ```
 
 5. Abrir en el navegador la dirección que aparece en la terminal.
 
@@ -55,4 +51,4 @@ La aplicación incluye resultados iniciales de demostración para mostrar cómo 
 
 Los datos se manejan mediante el estado de React, por lo que los resultados nuevos y los cambios realizados se mantienen mientras la aplicación está abierta. Si se recarga la página, los cambios se reinician y vuelven a aparecer los resultados iniciales.
 
-Este proyecto se realizó como práctica para trabajar con React, sus Hooks, el manejo del estado, los eventos, las validaciones y las operaciones con listas, como `map()`, `filter()`, `reduce()` y `sort()`.
+Este proyecto se realizó como práctica para trabajar con React, sus Hooks, el manejo del estado, los eventos, las validaciones y las operaciones con listas, como map(), filter(), reduce() y sort().
